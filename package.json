@@ -1,1 +1,25 @@
-{}
+{
+  "name": "nasa-project",
+  "version": "1.0.0",
+  "description": "Tech stac:",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "install": "npm run install server && npm run install-client",
+    "server": "npm run watch --prefix server",
+    "client": "npm start --prefix client",
+    "watch": "npm run server & npm run client",
+    "test": "npm run test --prefix server & npm run client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleBradC/nasa-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleBradC/nasa-project/issues"
+  },
+  "homepage": "https://github.com/AleBradC/nasa-project#readme"
+}
