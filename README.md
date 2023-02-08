@@ -2,5 +2,6 @@ Tech stac:
 
 1. React
 2. Node.js
-3. MongoDB
-4. Mongoose
+3. Express.js
+4. MongoDB
+5. Mongoose
