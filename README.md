@@ -1,4 +1,4 @@
-Tech stac:
+Tech stack:
 
 1. React
 2. Node.js
