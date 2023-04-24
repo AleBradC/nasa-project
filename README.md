@@ -1,7 +1,22 @@
-Tech stack:
+# Project Title
 
-1. React
-2. Node.js
-3. Express.js
-4. MongoDB
-5. Mongoose
+Nasa project
+
+## Description
+
+Small project to get familiar with node.js and MongoDB. 
+You can create mission, sedule them & delete. 
+
+## Getting Started
+
+- clone project
+- run npm i
+- npm run dev 
+
+### Dependencies
+
+- Node.js
+- Express.js
+- React 
+- MongoDB
+- Mongoose
