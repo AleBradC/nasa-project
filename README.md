@@ -19,4 +19,4 @@ You can create mission, sedule them & delete.
 
 - clone project
 - run npm i
-- npm run dev 
+- npm run dev -> to run the server and client
