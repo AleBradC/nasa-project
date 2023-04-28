@@ -10,10 +10,6 @@ Nasa project
 - MongoDB
 - Mongoose
 
-# Status
-
-- in progress...
-
 # Description
 
 Small project to get familiar with node.js and MongoDB. 
