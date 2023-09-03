@@ -26,3 +26,5 @@ Follow these steps to get started with the project:
    ```
 
    For mongo_URI: https://www.mongodb.com/docs/guides/atlas/cluster/
+
+4. Run the project `npm run watch`, to run both the server and the client, you can also run them separately by using `npm run client` or `npm run server`
