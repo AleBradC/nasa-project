@@ -1,8 +1,6 @@
-# Project Title
+# NASA Project
 
-Nasa project
-
-# Dependencies
+## Dependencies
 
 - Node.js
 - Express.js
@@ -10,18 +8,19 @@ Nasa project
 - MongoDB
 - Mongoose
 
-# Description
+## Description
 
-Small project to get familiar with node.js and MongoDB.
-You can create schedule and delete a mission.
+This is a small project aimed at getting familiar with Node.js and MongoDB. You can use it to create schedules and delete missions.
 
-# Getting Started
+## Getting Started
 
-1. clone project
-2. run npm i
-3. For setting up the database you need to add .env file into the root project directory, and add:
-   PORT = 8000
-   MONGO_URI = '' -> create a mongodb collection and add the uri here - https://www.mongodb.com/docs/guides/atlas/cluster/
-4. To run the project:
+Follow these steps to get started with the project:
 
-- npm run dev -> to run the server and client
+1. Clone the project.
+2. Install the required dependencies by running `npm install`.
+3. To set up the database, create an `.env` file in the root project directory and add the following:
+
+   ```env
+   PORT=8000
+   MONGO_URI=<your_MongoDB_URI_here>
+   ```
