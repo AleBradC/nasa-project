@@ -6,14 +6,14 @@ Nasa project
 
 - Node.js
 - Express.js
-- React 
+- React
 - MongoDB
 - Mongoose
 
 # Description
 
-Small project to get familiar with node.js and MongoDB. 
-You can create mission, sedule them & delete. 
+Small project to get familiar with node.js and MongoDB.
+You can create schedule and delete a mission.
 
 # Getting Started
 
