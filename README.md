@@ -17,7 +17,7 @@ This is a small project aimed at getting familiar with Node.js and MongoDB. You 
 Follow these steps to get started with the project:
 
 1. Clone the project.
-2. Install the required dependencies by running `npm install`.
+2. Install the required dependencies by running `npm install` (for both server and the client at the same time).
 3. To set up the database, create an `.env` file in the root project directory and add the following:
 
    ```env
