@@ -24,3 +24,5 @@ Follow these steps to get started with the project:
    PORT=8000
    MONGO_URI=<your_MongoDB_URI_here>
    ```
+
+   For mongo_URI: https://www.mongodb.com/docs/guides/atlas/cluster/
